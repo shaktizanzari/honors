@@ -1,0 +1,14 @@
+.links{
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+.links:hover{
+    padding:0.5rem 1rem;
+    background-color: white;
+    color:black;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: ease-in-out;
+    transition: 0.5s;
+}
